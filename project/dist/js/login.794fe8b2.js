@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject"]=self["webpackChunkproject"]||[]).push([[535],{2333:function(n,o,e){e.r(o),e.d(o,{default:function(){return c}});var t=e(3396);function i(n,o,e,i,l,r){return(0,t.wg)(),(0,t.iD)("div",null,[(0,t._)("button",{onClick:o[0]||(o[0]=(...o)=>n.loginWithGoogle&&n.loginWithGoogle(...o))},"Login with Google")])}var l=e(65),r={name:"LoginPage",methods:{...(0,l.nv)("auth",["loginWithGoogle"])}},u=e(89);const g=(0,u.Z)(r,[["render",i]]);var c=g}}]);
+//# sourceMappingURL=login.794fe8b2.js.map
